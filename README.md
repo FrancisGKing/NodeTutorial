@@ -1,0 +1,1 @@
+This is a rudimentary webpage that allows for creating accounts. The goal of this project was to practice Javascript and gain experience with Node, Express, and MongoDB. I followed this tutorial from Closebrace to complete this project.
